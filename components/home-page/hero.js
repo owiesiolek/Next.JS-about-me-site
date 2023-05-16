@@ -2,8 +2,6 @@ import Image from "next/image";
 
 import classes from "./hero.module.css";
 
-import img from '../../public/images/site/oskar.jpg';
-
 function Hero() {
   return (
     <section className={classes.hero}>
