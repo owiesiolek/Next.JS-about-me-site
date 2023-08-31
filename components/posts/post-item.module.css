@@ -1,11 +1,13 @@
 .post {
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
-  background-color: var(--color-grey-800);
+  background-color: #2c1320;
   text-align: center;
+  padding-top: 4%;
+  border-radius: 15px;
 }
 
 .post a {
-  color: var(--color-grey-100);
+  color: #B8BDB5;
 }
 
 .image {
@@ -16,6 +18,7 @@
 
 .image img {
   object-fit: cover;
+  border-radius: 15px;
 }
 
 .content {
@@ -29,7 +32,7 @@
 
 .content time {
   font-style: italic;
-  color: var(--color-grey-300);
+  color: #B8BDB5;
 }
 
 .content p {

@@ -8,13 +8,13 @@ function Hero() {
       <div className={classes.image}>
         <Image
           src='/images/site/oskar.png'
-          alt="Image showing Oskar"
+          alt="Image - Oskar"
           width={300}
           height={300}
         />
       </div>
       <h1>Hi, I'm Oskar</h1>
-      <p>That's my project written using Next.js and React!</p>
+      <p>I appreciate your interest in checking my website. Please feel free to check out my projects!</p>
     </section>
   );
 }

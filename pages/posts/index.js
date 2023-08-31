@@ -9,10 +9,10 @@ function AllPostsPage(props) {
   return (
     <Fragment>
       <Head>
-        <title>All Posts</title>
+        <title>Projects</title>
         <meta
-          name="description"
-          content="A list of programming and web development posts!"
+          name="Oskar Wiesiolek - projects"
+          content="A list of programming and web development projects!"
         />
       </Head>
       <AllPosts posts={props.posts} />

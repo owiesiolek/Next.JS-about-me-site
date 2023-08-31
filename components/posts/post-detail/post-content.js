@@ -23,7 +23,7 @@ function PostContent(props) {
           src={`/images/posts/${post.slug}/${image.src}`}
           alt={image.alt}
           width={600}
-          height={300}
+          height={300}       
         />
       );
     },
